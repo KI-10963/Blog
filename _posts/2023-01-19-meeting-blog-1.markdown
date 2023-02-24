@@ -25,4 +25,4 @@ We were able to order from **Rev Robotics** for parts to help us have a smarter 
 
 ## Programming
 
-Angel is programming the robot to use the new servos to control the arm
+Angel is programming the robot to use the new servos to control the arm for the cones.
