@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "2nd Meeting!"
+date:   2023-01-19 18:48:55 +0000
+categories: meeting update
+---
+
+# Team Members
+
+1. Astrid Villagra
+2. Jesus Garza
+3. Angel Cedillo
+4. Dominic Baeza
+5. Maliki Mazon
+6. Jeremiah Argueta
+7. Damien Ortiz
+
+# Sponsors
+
+ 1. Tish Wallace
+ 2. Carlos Willis
+
+## Building
+
+First we measured and ensured our robot was the right size in height and length for the competition.
+
+- Width: 17 inches
+- Height: 13 inches
+- Length: 18 inches
+Recevied via Amazon
+- EMEET SmartCam C960
+- Anker 4-Port Ultra Slim USB 3.0 Data Hub
+- 6-Outlet Surge Protector Power Strip, 2-Pack - Black
+
+## Programming
+
+Connectors - short circuited
+Used Anker 4-Port
+Robotics Laptop received from NEST for Java programming
